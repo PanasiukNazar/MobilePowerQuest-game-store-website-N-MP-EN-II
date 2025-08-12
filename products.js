@@ -2,7 +2,7 @@ initStore([
   {
     id: 0,
     title: 'Starfield (Xbox/PC)',
-    description: 'Episches Weltraum-Rollenspiel von den Machern.',
+    description: 'Epic space RPG from the creators of classic adventures.',
     price: 119.95,
     discountPrice: 94.95,
     image: 'images/service-1.jpg',
@@ -10,7 +10,7 @@ initStore([
   {
     id: 1,
     title: 'The Last of Us Part I (PS5)',
-    description: 'Neuauflage des gefeierten Survival-Action-Klassikers.',
+    description: 'Remastered survival action classic with enhanced graphics.',
     price: 79.95,
     discountPrice: 59.95,
     image: 'images/service-2.jpg',
@@ -18,7 +18,7 @@ initStore([
   {
     id: 2,
     title: 'Hogwarts Legacy (PS5/Xbox/PC)',
-    description: 'Open-World-Action-Rollenspiel in der Welt von Harry Potter.',
+    description: 'Open-world action RPG set in the magical Harry Potter universe.',
     price: 69.95,
     discountPrice: 54.95,
     image: 'images/service-3.jpg',
@@ -26,7 +26,7 @@ initStore([
   {
     id: 3,
     title: 'Resident Evil 4 Remake (PS5/PC)',
-    description: 'Modernisierte Version des Survival-Horror-Klassikers.',
+    description: 'Updated survival horror classic with modern visuals.',
     price: 89.95,
     discountPrice: 74.95,
     image: 'images/service-4.jpg',
@@ -34,7 +34,7 @@ initStore([
   {
     id: 4,
     title: 'God of War Ragnarök (PS5)',
-    description: 'Mythologisches Action-Epos mit atemberaubender Grafik und fesselnder Story.',
+    description: 'Mythological action saga featuring stunning graphics and gripping story.',
     price: 99.95,
     discountPrice: 84.95,
     image: 'images/service-5.jpg',
@@ -42,7 +42,7 @@ initStore([
   {
     id: 5,
     title: 'The Legend of Zelda: Tears of the Kingdom (Switch)',
-    description: 'Heiß erwartete Fortsetzung mit neuen Mechaniken und Erkundungsmöglichkeiten.',
+    description: 'Highly anticipated sequel with new mechanics and exploration.',
     price: 89.95,
     discountPrice: 69.95,
     image: 'images/service-6.jpg',
